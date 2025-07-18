@@ -44,6 +44,9 @@ Este projeto utiliza técnicas de **visão computacional** e **processamento de 
 ---
 
 ## 📊 Exemplo de Resultado
+
+Na pasta images, você encontrará uma imagem que pode ser utilizada para a análise. 
+
 Após o upload da imagem, você verá:
 
 - A imagem original em tons de cinza
